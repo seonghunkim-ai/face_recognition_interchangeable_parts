@@ -10,4 +10,9 @@
 - Bing에서 Google로 검색 엔진 사이트 변경
 
 ### crop_image
+- 원본 이미지에서 얼굴 검출 방식을 변경하였습니다.
+  - openCV의 Haar Cascades Classifier -> [OpenFace] (오픈소스 얼굴인식 DNN)
+    - 윈도우에서 
 
+
+[OpenFace]: http://cmusatyalab.github.io/openface/
