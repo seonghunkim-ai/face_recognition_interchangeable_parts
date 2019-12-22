@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="175c283b-d9ea-4842-b84b-1169c9962ebc" name="Default Changelist" comment="" />
+    <list default="true" id="175c283b-d9ea-4842-b84b-1169c9962ebc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +20,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../face_recognition_yolo" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager" selected="Python.crop_image_2">
@@ -97,6 +99,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="932" y="184" key="FileChooserDialogImpl" timestamp="1576985516902">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="932" y="184" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1576985516902" />
     <state width="1515" height="214" key="GridCell.Tab.0.bottom" timestamp="1576914703035">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -117,9 +123,9 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="277" y="60" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1576914129475" />
-    <state x="843" y="242" key="com.intellij.ide.util.TipDialog" timestamp="1576914011822">
+    <state x="843" y="242" key="com.intellij.ide.util.TipDialog" timestamp="1576983363704">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="843" y="242" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1576914011822" />
+    <state x="843" y="242" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1576983363704" />
   </component>
 </project>
