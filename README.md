@@ -7,7 +7,7 @@
 ## Changes
 
 ### image_scrapper
-Bing에서 Google로 검색 엔진 사이트 변경
+- Bing에서 Google로 검색 엔진 사이트 변경
 
 ### crop_image
 
